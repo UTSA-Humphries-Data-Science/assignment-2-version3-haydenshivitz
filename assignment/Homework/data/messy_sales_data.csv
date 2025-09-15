@@ -1,0 +1,5 @@
+"Customer_Name","Product_Category","Sales_Amount","Quantity","Purchase_Date"
+"Alice","Electronics",100,1,"2025-01-01"
+"Bob","Furniture",2000,10,"2025-02-15"
+NA,"electronics",NA,2,"2025-03-10"
+"Diana","Furniture",-50,NA,"2025-04-01"
